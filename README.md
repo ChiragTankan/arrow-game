@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 
 
-#Click: https://tankanchirag.github.io/arrow-game/
+#Click: https://chiragtankan.github.io/arrow-game/
